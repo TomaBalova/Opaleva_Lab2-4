@@ -1,0 +1,25 @@
+
+/*ОСНОВНОЙ ТЕКСТ*/
+body {
+    font-family: Montserrat; /* Семейство шрифтов */
+    font-size: 11pt; /* Размер основного шрифта в пунктах  */
+    color: #ffffff; /* Цвет основного текста */
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/*ЗАГОЛОВОК*/
+h1 {
+    color: #ffffff; /* Цвет заголовка */
+    font-size: 24pt; /* Размер шрифта в пунктах */
+    font-family: Montserrat; /* Семейство шрифтов */
+    font-weight: bold; /* Начертание текста  */
+}
+
+/*ССЫЛКИ*/
+a:link {
+    color: blue; /* Цвет */
+    font-family: Montserrat; /* Семейство шрифтов */
+    
+}
+

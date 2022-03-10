@@ -1,0 +1,38 @@
+body {
+    background: #000 url(static/images/backg.png);
+    color: #fff;
+    background-attachment: fixed;
+    background-repeat: repeat-x;
+}
+
+.card {
+    width: 1000px;
+    font-size: 24px;
+    text-indent: 15px;
+    line-height: 1.5;
+    margin: 10px 20px;
+}
+
+.im {
+    box-shadow: 0 5px 10px #fff;
+    border-radius: 10px;
+    display: block;
+    margin: 10px 20px;
+}
+
+.im2 {
+    display: flex;
+    margin: 0 20px;
+    margin: 10px auto;
+    text-align: center;
+}
+
+.fh2 {
+    font-size: 48px;
+    text-align: center;
+}
+
+.fh3 {
+    font-size: 38px;
+    text-align: center;
+}
